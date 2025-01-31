@@ -5,7 +5,7 @@ col1,col2=st.columns(2)
 
 with col1:
     st.write("<br><br>",unsafe_allow_html=True)
-    st.image("images/photo.png",width=300)
+    st.image("images/PassportSizePhoto.jpg",width=200)
 
 with col2:
     st.header("Sarthak Jain")
